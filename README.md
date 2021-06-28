@@ -1,0 +1,2 @@
+# IKEA-TRADFRI
+Este mando tiene un botón central con la función toggle rodeado de cuatro botones que poseen tres salidas diferentes: click, hold y release. Vamos a aprovechar el botón toggle para encender apagar directamente las lamparas. Cuando hemos actuado sobre una de ellas queda registrada cual es y podemos actuar sobre el brillo de ella. Podemos pasar de una lampara a otra sin modificar su condición de encendido/apagado con una simple pulsación sobre el botón toggle.
